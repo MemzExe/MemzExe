@@ -1,5 +1,4 @@
-Hi, I'm Memz
-Computer Science Student
+Hi!
 
 <!---
 MemzExe/MemzExe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
